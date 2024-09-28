@@ -18,4 +18,4 @@ Input validation,
 User manual
 
 Problems: 
-I had issues learning how to make the windows look astetically pleasing. I used the pack.pady= function to make pretty space around labels, buttons, and entry boxes. 
+I had issues learning how to make the windows look aesthetically pleasing. I used the pack.pady= function to make pretty space around labels, buttons, and entry boxes. 
