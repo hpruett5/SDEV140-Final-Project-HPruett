@@ -10,11 +10,11 @@ I have 3/3 buttons
 I have an 1/3 call back function buttons
 I have commented my code already and will continue as I work on my GUI
 
-Next Steps/I need: 
-1 more label
-2 more call back function buttons
-Input validation
-2 images
+Next Steps/I need: /n
+1 more label /n
+2 more call back function buttons /n
+Input validation /n 
+2 images /n 
 User manual
 
 Problems: 
