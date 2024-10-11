@@ -9,10 +9,6 @@ from tkinter import *
 from tkinter import ttk
 from PIL import ImageTk, Image
 
-#file_path = os.path.dirname(os.path.abspath(__file__))
-
-# set local path to current folder
-
 #this is a function for the second window that will pop out once the button on the first window is hit. 
 def open_window1():
     window1 = tk.Toplevel(root)
