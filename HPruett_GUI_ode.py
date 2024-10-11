@@ -1,3 +1,8 @@
+#MO8 Final Project Hannah Pruett
+#Hannah Pruett
+#created 2024-10-07
+#this program is a GUI that introduces Hannah's Homemade ordering system. It has a toplevel window that opens an ordering window and allows user to input information. 
+
 #this prints the assignment title
 print("MO8 Final Project Hannah Pruett- Hannah's Homemade GUI")
 print("")
